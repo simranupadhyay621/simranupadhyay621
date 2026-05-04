@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Simran Upadhyay
 
 <p align="center">
-  <a href="Linkedin.com/in/simran-upadhyay-95b68a37b">
+  <a href="Linkedin.com/in/simran-upadhyay-95b68a37b/">
     <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://www.naukri.com/mnjuser/profile?id=&altresid">
