@@ -24,16 +24,49 @@
 ---
 
 ## 🛠️ Tech Stack
+ 
+### 📊 BI & Visualization
 
-**Languages & Tools:**
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=black)
 
-* 🐍 Python
-* 🗄️ SQL (MySQL)
-* 📊 Pandas, NumPy
-* 📈 Matplotlib, Seaborn
-* 🤖 Scikit-learn
-* 📓 Jupyter Notebook / Google Colab
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=Tableau&logoColor=white)
 
+![Google Sheets](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)
+
+![Microsoft Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+ 
+### 🗄️ Database & Query
+
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
+![Postgres](https://img.shields.io/badge/PostgreSQL-%23316192?style=for-the-badge&logo=postgresql&logoColor=white)
+
+![AWS](https://img.shields.io/badge/AWS%20Redshift-%23FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)
+ 
+### ⚙️ ETL & Automation
+
+![Matillion](https://img.shields.io/badge/Matillion-006644?style=for-the-badge&logo=matillion&logoColor=white)
+
+![Power Query](https://img.shields.io/badge/Power%20Query-F2C811?style=for-the-badge&logo=microsoft&logoColor=black)
+
+![VBA](https://img.shields.io/badge/VBA-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
+ 
+### 🐍 Data Science & Python (Pursuing)
+
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+![NumPy](https://img.shields.io/badge/NumPy-%23013243?style=for-the-badge&logo=numpy&logoColor=white)
+
+![Pandas](https://img.shields.io/badge/Pandas-%23150458?style=for-the-badge&logo=pandas&logoColor=white)
+
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
+
+![Seaborn](https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+![scikit-learn](https://img.shields.io/badge/Scikit--Learn-%23F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+![SciPy](https://img.shields.io/badge/SciPy-%230C55A5?style=for-the-badge&logo=scipy&logoColor=white)
+ 
 ---
 
 ## 📂 Projects
